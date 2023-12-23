@@ -409,7 +409,7 @@ $(document).ready(function () {
     cartPageBottomH4 = document.querySelector(".cart-page-bottom h4");
     let textTitle = "Chúc Hoài My hay khóc nhè Giáng Sinh hạnh phúc nhé!!!";
     let charArrTitle = textTitle.split('');
-let text = "Chúc bà Giáng Sinh luôn vui vẻ và ấm áp nhé. Sẵn qua đây nhắn với bà vài câu, nói cho nghe gòii âm thầm hiểu thôi hen.Trước đây không biết đã xảy ra chuyện gì nhưng từ giờ ít nhất là vẫn còn tui ở đây, ai bắt nạt bà hay có chuyện gì làm bà buồn hay khó chịu thì cứ nói với tui nha. Mắt đẹp không để khóc, cười xinh lắm nên cười nhiều lên nhen, bà luôn xứng đáng với những điều tốt đẹp nhất nên hãy chấp nhận và đón nhận nó. Sắp tới đi học lại ùi, nhớ ngủ sớm gòi ăn uống đầy đủ vàooo. Cuối cùng Giáng Sinh ấm áp nhá, tui luôn ở đây là vì bà. Querencia";
+let text = "Chúc bà Giáng Sinh luôn vui vẻ và ấm áp nhé. Sẵn qua đây nhắn với bà vài câu, nói cho nghe gòii âm thầm hiểu thôi hen.Trước đây không biết đã xảy ra chuyện gì nhưng từ giờ ít nhất là vẫn còn tui ở đây, ai bắt nạt bà hay có chuyện gì làm bà buồn hay khó chịu thì cứ nói với tui nha. Mắt đẹp không để khóc, cười xinh lắm nên cười nhiều lên nhen, bà luôn xứng đáng với những điều tốt đẹp nhất nên hãy chấp nhận và đón nhận nó. Sắp tới đi học lại ùi, nhớ ngủ sớm gòi ăn uống đầy đủ vàooo. Cuối cùng Giáng Sinh ấm áp nhá, tui luôn ở đây là vì bà. Querencia!";
 let charArrContent = text.split('');
 var currentIndexTitle = 0;
 var currentIndexContent = 0;
